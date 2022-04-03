@@ -1,1 +1,3 @@
-Covid-19 Statistics
+<h1>Covid-19 Statistics</h1>
+Covid-19 has been a part of our life for almost two years. People are curious about the recent statistics of Covid-19 around the world. This project intended to share the recent statistics dynamically, and thanks to its search features, users can easily search and sort countries.<img width="560" alt="Screenshot 2022-04-03 at 18 54 19" src="https://user-images.githubusercontent.com/95967240/161438985-1934aa54-4fdf-4ea5-9bc6-cb8f2f441201.png">
+<img width="558" alt="Screenshot 2022-04-03 at 18 54 29" src="https://user-images.githubusercontent.com/95967240/161438990-1661bc08-bd5d-4c7f-9a08-a696d62ba55c.png">
